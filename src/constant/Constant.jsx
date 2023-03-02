@@ -1,0 +1,1 @@
+export const API_URL = 'https://videocallingbackend-026ty.dauqu.host';
